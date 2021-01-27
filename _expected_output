@@ -1,0 +1,46 @@
+filename> divvy01.csv
+
+# of rides: 500
+
+# of bikes: 99
+
+BikeID> 102
+
+# of rides for BikeID 102: 6
+
+Total time spent riding BikeID 102: 44 minutes 19 seconds
+
+Average time spent riding BikeID 102: 443.17 seconds
+
+StationID> 20
+
+# of rides to StationID 20: 22
+
+Average time spent on trips leading to StationID 20: 579.68 seconds
+
+Number of Trips on Sunday: 78
+Number of Trips on Monday: 89
+Number of Trips on Tuesday: 84
+Number of Trips on Wednesday: 93
+Number of Trips on Thursday: 74
+Number of Trips on Friday: 47
+Number of Trips on Saturday: 35
+
+0: ******* 78
+1: ******** 89
+2: ******** 84
+3: ********* 93
+4: ******* 74
+5: **** 47
+6: *** 35
+
+# of rides to station 1: 32
+# of rides to station 0: 18
+# of rides to station 6: 14
+# of rides to station 3: 13
+# of rides to station 5: 13
+# of rides to station 2: 12
+# of rides to station 14: 12
+# of rides to station 15: 11
+# of rides to station 7: 10
+# of rides to station 8: 10
